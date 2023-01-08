@@ -1,1 +1,2 @@
 # Simon-Game-Challenge
+The Simon game is a memory game where players have to repeat a sequence of colors or tones that is presented to them. The sequence starts off with a single color or tone, and each round an additional color or tone is added to the sequence. The player has to repeat the entire sequence in the correct order to progress to the next round. The game is over when the player makes a mistake.
